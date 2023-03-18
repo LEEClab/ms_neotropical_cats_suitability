@@ -13,3 +13,8 @@ A .csv file with all data used in Ribeiro-Souza et al. (2023).
 All models and maps generated in Ribeiro-Souza et al. (2023).
 
 # Citation
+Soon
+
+# Contact
+• Paula Ribeiro-Souza <drs.paula@gmail.com>
+• Júlio Haji <julio.yhjr@gmail.com>
