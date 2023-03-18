@@ -7,9 +7,9 @@ This repository shares the data from Ribeiro-Souza et al. (2023). Our study comb
 All analyses were performed in R statistical environment.
 
 # data
-A .csv file with all data used in Ribeiro-Souza et al. (2023)
+A .csv file with all data used in Ribeiro-Souza et al. (2023).
 
 # maps
-All models and maps generated from data.
+All models and maps generated in Ribeiro-Souza et al. (2023).
 
 # Citation
