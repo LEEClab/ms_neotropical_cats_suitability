@@ -3,13 +3,13 @@ This repository shares the data from Ribeiro-Souza et al. (2023). Our study comb
 
 ![Wild cats richness distribution in Atlantic Forest according to the EcoLand model](https://user-images.githubusercontent.com/65490803/226073033-efe45590-8965-4f4a-9a5b-77628bad255e.png)
 
-#R
+# R
 All analyses were performed in R statistical environment.
 
-#data
+# data
 A .csv file with all data used in Ribeiro-Souza et al. (2023)
 
-#maps
+# maps
 All models and maps generated from data.
 
-#Citation
+# Citation
