@@ -16,6 +16,6 @@ All models and maps generated in Ribeiro-Souza et al. (2023).
 Soon
 
 # Contact
-• Paula Ribeiro-Souza <drs.paula@gmail.com>
+• Paula Ribeiro-Souza: <drs.paula@gmail.com>
 
-• Júlio Haji <julio.yhjr@gmail.com>
+• Júlio Haji: <julio.yhjr@gmail.com>
