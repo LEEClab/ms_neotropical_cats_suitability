@@ -17,4 +17,5 @@ Soon
 
 # Contact
 • Paula Ribeiro-Souza <drs.paula@gmail.com>
+
 • Júlio Haji <julio.yhjr@gmail.com>
