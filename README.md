@@ -1,7 +1,8 @@
 # Suitable areas for Neotropical cats within an under-protected biodiversity hotspot
 This repository shares the data from Ribeiro-Souza et al. (2023). Our study combines climatic and landscape perspectives to determine the most suitable areas to ensure the highest levels of taxonomic richness of Neotropical cats in the Atlantic Forest. We also provide habitat suitability maps for each species.
 
-![Wild cats richness distribution in Atlantic Forest according to the EcoLand model](https://user-images.githubusercontent.com/65490803/226073033-efe45590-8965-4f4a-9a5b-77628bad255e.png)
+![Figure S2 1  Graphical abstract  for species distribution modelling](https://user-images.githubusercontent.com/65490803/226894760-29a479f3-d55a-427b-a111-07ef8e44673f.png)
+
 
 # R
 All analyses were performed in R statistical environment.
