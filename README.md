@@ -4,7 +4,6 @@ This repository shares the data from Ribeiro-Souza et al. (2023). Our study comb
 ![Figure S2 1  Graphical abstract  for species distribution modelling](https://user-images.githubusercontent.com/65490803/226894760-29a479f3-d55a-427b-a111-07ef8e44673f.png)
 
 
-# R
 All analyses were performed in R statistical environment.
 
 # data
