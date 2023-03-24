@@ -14,10 +14,3 @@ All models and maps generated in study.
 
 # Citation
 Soon
-
-# Contact
-• Paula Ribeiro-Souza: <<drs.paula@gmail.com>>
-
-• Júlio Haji: <<julio.yhjr@gmail.com>>
-
-• Milton Cezar Ribeiro: <<milton.c.ribeiro@unesp.br>>
