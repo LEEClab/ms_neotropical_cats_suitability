@@ -13,4 +13,4 @@ A .csv file with all data used in study.
 All models and maps generated in study.
 
 # Citation
-Soon
+Ribeiro-Souza, P., Haji, J., Oshima, J., Lima, F., Lima-Silva, B., Pires, J., Ribeiro, M., & Graipel, M. (2024). Under pressure: suitable areas for neotropical cats within an under protected biodiversity hotspot. Remote Sensing Applications Society and Environment, 34, 101155. https://doi.org/10.1016/j.rsase.2024.101155
